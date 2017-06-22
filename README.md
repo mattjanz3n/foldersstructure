@@ -8,7 +8,7 @@ Unzip and put Create Folders Structure.workflow into ~/Library/Services r just o
 1. Create folder for project with the client name or project name. 
 2. Right click on folder icon and select "Create Folders Structure" from "Services" menu...
 
-![](https://raw.githubusercontent.com/mattjanz3n/foldersstructure/master/howto/Screen Shot 2017-06-22 at 11.28.50 AM.png)
+![](https://raw.githubusercontent.com/mattjanz3n/foldersstructure/master/howto/Screen%20Shot%202017-06-22%20at%2011.28.50%20AM.png)
 
 ... open folder.
 
