@@ -14,6 +14,7 @@ Unzip and put Create Folders Structure.workflow into ~/Library/Services r just o
 
 You can edit workflow in Automator.app for your requirements.
 
-### Future
-- add in proper subfolders
-- add in branding project structure. 
+### Future Plans
+- add in proper subfolders (working-links, etc).
+- add in branding project structure.
+- auto-add in template PSD files for web projects.
